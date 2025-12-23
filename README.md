@@ -19,5 +19,7 @@
 * Obs: A descrição dos requisitos do banco de dados está no arquivo em anexo.
 <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Estudo%20de%20Caso%203.jpg?raw=true.png">
   
-
 * Desejo uma ótima atividade para todos!
+
+* Modelo Conceitual
+* Modelo Lógico
