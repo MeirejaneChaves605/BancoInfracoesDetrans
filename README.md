@@ -22,4 +22,5 @@
 * Desejo uma ótima atividade para todos!
 
 * Modelo Conceitual
+ <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Conceitual_1.png?raw=true.png">
 * Modelo Lógico
