@@ -7,6 +7,13 @@
 [![Lattes Henrique Pereira](https://img.shields.io/badge/Lattes-Henrique_Freitas-green.svg?logo=cnpq&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8B62CFB2D86DC88AE42BDFC0BF85BBBE.buscatextual_0)
 <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
 
+# Ferramentas utilizadas para os bancos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![brModelo](https://img.shields.io/badge/brModelo-Download-orange?style=for-the-badge)](https://www.sis4.com/brmodelo/download.html)
+[![SQL Power Architect](https://img.shields.io/badge/SQL_Power_Architect-Download-blue?style=for-the-badge)](https://bestofbi.com/sql-power-architect-download-2/)
+
+
 # Atividade avaliativa 2 :
 
 
@@ -27,7 +34,8 @@
 <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Estudo%20de%20Caso%203.jpg?raw=true.png">
  Desejo uma ótima atividade para todos!
 
- Modelo Conceitual
+# Modelo Conceitual
  <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Conceitual_1.png?raw=true.png">
- Modelo Lógico
+ 
+ # Modelo Lógico
  <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/ModeloL%C3%B3gico.jpg?raw=true.png">
