@@ -18,4 +18,6 @@
 * Liste a placa do veículo, o nome do proprietário, o tipo de infração, a data e hora da ocorrência e a UF onde ela ocorreu, somente para o "DF".
 * Obs: A descrição dos requisitos do banco de dados está no arquivo em anexo.
 
+  
+
 * Desejo uma ótima atividade para todos!
