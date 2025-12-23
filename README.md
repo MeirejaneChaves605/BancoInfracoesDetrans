@@ -7,11 +7,14 @@
 [![Lattes Henrique Pereira](https://img.shields.io/badge/Lattes-Henrique_Freitas-green.svg?logo=cnpq&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8B62CFB2D86DC88AE42BDFC0BF85BBBE.buscatextual_0)
 <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
 
-# Ferramentas utilizadas para os bancos
+# Ferramentas usadas para os bancos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-[![brModelo](https://img.shields.io/badge/brModelo-Download-orange?style=for-the-badge)](https://www.sis4.com/brmodelo/download.html)
-[![SQL Power Architect](https://img.shields.io/badge/SQL_Power_Architect-Download-blue?style=for-the-badge)](https://bestofbi.com/sql-power-architect-download-2/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/download/)
+
+[![brModelo](https://img.shields.io/badge/brModelo-DOWNLOAD-orange?style=for-the-badge)](https://sourceforge.net/projects/brmodelo/files/latest/download)
+
+[![SQL Power Architect](https://img.shields.io/badge/SQL_Power_Architect-DOWNLOAD-blue?style=for-the-badge)](https://bestofbi.com/architect-download/)
+
 
 
 # Atividade avaliativa 2 :
