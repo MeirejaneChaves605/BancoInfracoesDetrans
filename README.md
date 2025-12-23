@@ -17,7 +17,7 @@
 * Exiba a placa do veículo, a velocidade aferida, a velocidade permitida e o local da infração, somente para os casos em que a velocidade aferida for maior que a permitida;
 * Liste a placa do veículo, o nome do proprietário, o tipo de infração, a data e hora da ocorrência e a UF onde ela ocorreu, somente para o "DF".
 * Obs: A descrição dos requisitos do banco de dados está no arquivo em anexo.
-<img align="center" width="200px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Estudo%20de%20Caso%203.jpg?raw=true.png">
+<img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/BancoInfracoesDetrans/blob/main/Estudo%20de%20Caso%203.jpg?raw=true.png">
   
 
 * Desejo uma ótima atividade para todos!
