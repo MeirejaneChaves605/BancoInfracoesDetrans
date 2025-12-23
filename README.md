@@ -5,7 +5,6 @@
 [![LinkedIn Henrique Pereira](https://img.shields.io/badge/LinkedIn-Henrique_Freitas-%230077B5.svg?labelColor=%23FFFFFF&logo=linkedin)](https://br.linkedin.com/in/henrique-freitas-69b836b4)
 [![GitHub Henrique](https://img.shields.io/badge/GitHub-henriquepff_(Henrique_Freitas)-%23181717.svg?logo=github&logoColor=white)](https://github.com/henriquepff/)
 [![Lattes Henrique Pereira](https://img.shields.io/badge/Lattes-Henrique_Freitas-green.svg?logo=cnpq&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8B62CFB2D86DC88AE42BDFC0BF85BBBE.buscatextual_0)
-<img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
 
 # Ferramentas usadas para os bancos
 
@@ -18,6 +17,8 @@
 
 
 # Atividade avaliativa 2 :
+
+<img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
 
 
 * Projete o banco de dados de infrações dos DETRANs, insira 5 linhas em todas as tabelas e faça as consultas solicitadas abaixo. Para a avaliação desse exercício, deve ser enviado para o professor:
